@@ -15,6 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![Kweku Dzata profile views](https://u8views.com/api/v1/github/profiles/148214043/views/day-week-month-total-count.svg)](https://u8views.com/github/kwekudzata)
 ---
 [![](https://visitcount.itsvg.in/api?id=kwekudzata&icon=0&color=0)](https://visitcount.itsvg.in)
 
