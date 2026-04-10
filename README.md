@@ -37,7 +37,7 @@ class KwekuDzata:
     def __init__(self):
         self.name       = "Kweku Dzata"
         self.role       = ["Aspiring Data Scientist", "Software Engineer"]
-        self.languages  = ["Python", "C", "HTML", "CSS", "SQL"]
+        self.languages  = ["Python", "C", "HTML", "CSS", "SQL", "REACT"]
         self.interests  = ["Machine Learning", "Data Visualization", "AI Applications", "Open Source"]
         self.currently  = "Sharpening Python skills for data science & backend dev"
         self.goal       = "Combine data-driven insights with software engineering to create impact"
