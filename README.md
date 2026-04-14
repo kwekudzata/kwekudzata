@@ -81,20 +81,17 @@ me.say_hi()
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Stats](https://github-readme-stats.shion.dev/api?username=kwekudzata&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=kwekudzata&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kwekudzata&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kwekudzata&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kwekudzata&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=kwekudzata&theme=tokyonight&border_radius=10&border=6e40c9&background=0d1117&stroke=6e40c9&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)
-
-</div>
 ---
+[![](https://komarev.com/ghpvc/?username=kwekudzata&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+</div>
 
 ## 📈 Contribution Graph
 
