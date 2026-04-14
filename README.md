@@ -82,13 +82,10 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kwekudzata&show_icons=true&theme=tokyonight&border_radius=10&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a78bfa&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwekudzata&theme=tokyonight&border_radius=10&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a78bfa&hide_border=false&layout=compact&langs_count=8" height="180px"/>
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kwekudzata&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kwekudzata&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kwekudzata&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/><br/>
 
