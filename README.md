@@ -34,7 +34,10 @@
 
 I work with Python, machine learning, and data visualization to turn raw data into meaningful decisions. Currently sharpening my skills in data science and backend development, with a goal of combining data-driven insights with solid software engineering to build things that actually matter.
 
-📬 [dzataemmanuel2@gmail.com](mailto:dzataemmanuel2@gmail.com)
+<br/>
+
+[![Send Me an Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzataemmanuel2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://kwekudzata.vercel.app/dev)
 
 ---
 
