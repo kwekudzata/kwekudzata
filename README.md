@@ -30,24 +30,11 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class KwekuDzata:
-    def __init__(self):
-        self.name       = "Kweku Dzata"
-        self.role       = ["Aspiring Data Scientist", "Software Engineer"]
-        self.location   = "Ghana 🇬🇭"
-        self.languages  = ["Python", "C", "HTML", "CSS", "SQL"]
-        self.interests  = ["Machine Learning", "Data Visualization", "AI", "Open Source"]
-        self.currently  = "Sharpening Python skills for data science & backend dev"
-        self.goal       = "Combine data-driven insights with software engineering to create impact"
-        self.contact    = "dzataemmanuel2@gmail.com"
+**Kweku Dzata** — Aspiring Data Scientist & Software Engineer based in Ghana 🇬🇭
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something meaningful together 🚀")
+I work with Python, machine learning, and data visualization to turn raw data into meaningful decisions. Currently sharpening my skills in data science and backend development, with a goal of combining data-driven insights with solid software engineering to build things that actually matter.
 
-me = KwekuDzata()
-me.say_hi()
-```
+📬 [dzataemmanuel2@gmail.com](mailto:dzataemmanuel2@gmail.com)
 
 ---
 
