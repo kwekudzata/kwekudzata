@@ -7,7 +7,7 @@
 > **Software Engineer | Data Science enthusiast · Actively open to remote opportunities**
 > 
 > [![Hire Me](https://img.shields.io/badge/Available%20for%20Hire-6e40c9?style=for-the-badge&logo=handshake&logoColor=white)](mailto:dzataemmanuel2@gmail.com)
-> [![Remote Only](https://img.shields.io/badge/Remote%20Only-0d1117?style=for-the-badge&logo=homeadvisor&logoColor=6e40c9)](mailto:dzataemmanuel2@gmail.com)
+> [![Remote | On-Site](https://img.shields.io/badge/Remote%20Only-0d1117?style=for-the-badge&logo=homeadvisor&logoColor=6e40c9)](mailto:dzataemmanuel2@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=6&section=footer" width="100%"/>
 
