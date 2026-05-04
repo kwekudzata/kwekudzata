@@ -1,3 +1,20 @@
+<!-- Open to Work Banner -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=6&section=header" width="100%"/>
+
+> ### 🟢 `throw new JobSearchException("seeking remote role")`
+> **Software Engineer | Data Science enthusiast · Actively open to remote opportunities**
+> 
+> [![Hire Me](https://img.shields.io/badge/Available%20for%20Hire-6e40c9?style=for-the-badge&logo=handshake&logoColor=white)](mailto:dzataemmanuel2@gmail.com)
+> [![Remote Only](https://img.shields.io/badge/Remote%20Only-0d1117?style=for-the-badge&logo=homeadvisor&logoColor=6e40c9)](mailto:dzataemmanuel2@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=6&section=footer" width="100%"/>
+
+</div>
+
+---
+
 <!-- Visitor Counter -->
 <a href="https://komarev.com/ghpvc/?username=kwekudzata">
   <img align="right" src="https://komarev.com/ghpvc/?username=kwekudzata&label=Profile+Views&color=6e40c9&style=flat-square" alt="Profile visitor" />
